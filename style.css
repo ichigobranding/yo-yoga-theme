@@ -40,7 +40,7 @@ body {
     color: #333333;
     font-size: 15px;
    /* background:url(images/bg.png);*/
-   background: #fff;
+    background: rgba(217, 206, 82, 0.13);
 }
 #primary{
     margin:0px;
@@ -79,7 +79,7 @@ div.col-md-3.sidebarpadd{
     padding:0;
 }
 div#sideba{
-    margin:0 0 60px 0;
+    margin:0 0 25px 0;
     padding:0;
 }
 .sidebarpadd{
@@ -145,7 +145,7 @@ li{
 /* お問い合わせフォーム　必須マーク *******/
 .hissudesu {
     margin: 4px 0;
-    background-color: #e84331;
+    background-color: #d95282;
     color: #fff;
     width: 37px;
     text-align:center;
@@ -359,7 +359,7 @@ ul.children{
     list-style: none;
 }
 .sidewii{
-    margin: 40px 0 0 0;
+    margin: 0px 0 0 0;
 }
 /* page.php タイトル *******/
 .ibskinArticleBody2 .page-header{
@@ -540,25 +540,25 @@ select{
 /* ヘッダー右の連絡のアイコン *******/
 .telcon{
     margin: 0 5px 0 0;
-    color:#e84331;
+    color:#d95282;
 }
 /* 記事内のブランディングカラー *******/
 .navbar.navbar-default {
-    background-color: #e84331;
+    background-color: #d95282;
 }
 .ibMenuHeader {
     font-weight: bold;
     padding: 5px 10px 5px 7px;
     background: url(※) 4px 50% no-repeat rgb(255, 255, 255);
     background-position: 4px 50%;
-    border-bottom: 2px solid #e84331;
+    border-bottom: 2px solid #d95282;
 }
 h2.widget-title {
     font-weight: bold;
     padding: 5px 10px 5px 7px;
     background: url(※) 4px 50% no-repeat rgb(255, 255, 255);
     background-position: 4px 50%;
-    border-bottom: 2px solid #e84331;
+    border-bottom: 2px solid #d95282;
     font-size: 15px;
 }
 h3.widgettitle {
@@ -566,7 +566,7 @@ h3.widgettitle {
     padding: 0px 10px 5px 7px;
     background: url(※) 4px 50% no-repeat rgb(255, 255, 255);
     background-position: 4px 50%;
-    border-bottom: 2px solid #e84331;
+    border-bottom: 2px solid #d95282;
     font-size: 15px;
 }
 h3 {
@@ -575,28 +575,28 @@ h3 {
 div.container.wf h2.widget-title{
     color:#333;
     background-color: #f9e5e4;
-    border-bottom:1px solid #e84331;
+    border-bottom:1px solid #d95282;
     font-size:16px;
 }
 .after-footer{
     padding: 20px 0;
-    background-color: #e84331;
+    background-color: #d95282;
 }
 .freespace-waku {
-    border: 2px solid #e84331;
+    border: 2px solid #d95282;
     padding: 10px;
     margin: 0px 0 15px 0;
 }
 /* 記事枠 *******/
 .ibskinArticle {
     padding: 5px 0;
-    border: 1px solid #e84331;
+    border: 1px solid #d95282;
     background: #ffffff;
     margin-bottom: 15px;
 }
 .ibskinArticle-all {
     padding: 5px 0;
-    border: 0px solid #e84331;
+    border: 0px solid #d95282;
     background: #ffffff;
     margin-bottom: 30px;
 }
@@ -621,7 +621,7 @@ div.container.wf h2.widget-title{
     background: url(※) no-repeat;
     background-position: 0 50%;
     border: none;
-    border-bottom: 1px solid #e84331;
+    border-bottom: 1px solid #d95282;
     overflow: hidden;
     zoom: 1;
 }
@@ -635,7 +635,7 @@ div.container.wf h2.widget-title{
     zoom: 1;
 }
 .fontW6 {
-    border-left: 8px solid #e84331;
+    border-left: 8px solid #d95282;
     font-size: 25px;
     padding-left: 12px;
     line-height: 1.3;
@@ -644,7 +644,7 @@ div.container.wf h2.widget-title{
 }
 .ibskinArticlelist {
     padding: 5px 0;
-    border: 1px solid #e84331;
+    border: 1px solid #d95282;
     background: #ffffff;
     margin-bottom: 15px;
 }
@@ -663,20 +663,20 @@ div.container.wf h2.widget-title{
     background-position: 0px 50%;
     border-style: none none solid;
     border-image: initial;
-    border-bottom: 1px solid #e84331;
+    border-bottom: 1px solid #d95282;
     overflow: hidden;
 }
 
 /* サイトタイトル *******/
 h1.site-title a{
-    color:#e84331;
+    color:#d95282;
 }
 
 /* page-fullwidth *******/
 .entry-title {
     font-size: 32px;
     font-weight: 100;
-    color: #e84331;
+    color: #d95282;
 }
 /* page.php *******/
 .ibskinArticleBody2 h1.entry-title{
@@ -685,7 +685,7 @@ h1.site-title a{
     background: url(※) no-repeat;
     background-position: 0 50%;
     border: none;
-    border-bottom: 1px solid #e84331;
+    border-bottom: 1px solid #d95282;
     overflow: hidden;
     zoom: 1;
     font-size: 15px;
@@ -694,7 +694,7 @@ h1.site-title a{
 }
 /* コンタクトフォームのボタン *******/
 #submitBtn{
-    background-color: #e84331;/* Branding  concept color 1  *******/
+    background-color: #d95282;/* Branding  concept color 1  *******/
     box-shadow: 0 6px #f9e5e4;/* Branding  concept color 3 */
     width: 70%;
     height: 60px;
@@ -752,7 +752,7 @@ select{
 }
 /* フォームの枠 *******/
 .formwaku {
-    /* border: 1px solid #e84331;
+    /* border: 1px solid #d95282;
     margin: 40px 0 20px 0;
     padding: 20px 10px 10px 20px;*/
     margin: 15px auto 0 auto;
@@ -766,7 +766,7 @@ select{
   .yubin{width: 40% !important;}
   .yubin2{width: 40% !important;}
   #submitBtn3 {
-    background-color: #e84331;/* Branding  concept color 1  *******/
+    background-color: #d95282;/* Branding  concept color 1  *******/
     box-shadow: 0 6px #EF9086;/* Branding  concept color 2  *******/
     width: 100% !important;
     height: 50px;
@@ -781,7 +781,7 @@ select{
 }
 }
 #submitBtn3{
-    background-color:  #e84331; /* Branding  concept color 1  *******/
+    background-color:  #d95282; /* Branding  concept color 1  *******/
     box-shadow: 0 6px #EF9086; /* Branding  concept color 2  *******/
     width: 80% !important;
     height: 50px;
@@ -796,14 +796,14 @@ select{
 }
 /* MessageBoard *******/
 .skinMessageBoard-widgetcss {
-    border: 1px dotted #e84331;/* Branding  concept color 1 color 2*/
+    border: 1px dotted #d95282;/* Branding  concept color 1 color 2*/
     margin: 5px 0 15px 0;
     padding: 0px 15px;
     font-size: 12px;
 
 }
 .skinMessageBoard {
-    border: 1px dotted #e84331;/* Branding  concept color 1 color 2*/
+    border: 1px dotted #d95282;/* Branding  concept color 1 color 2*/
     margin: 0px 0 20px 0;
     padding: 20px 10px 10px 7px;
     font-size: 12px;
@@ -908,7 +908,7 @@ h1.site-title a:hover{
     font-size: 14px;
 }
 .meru {
-    background-color: #e84331;/* 新着メルマガ */
+    background-color: #d95282;/* 新着メルマガ */
     color: #fff;
     font-weight: 900;
     font-size: 11px;
@@ -978,7 +978,7 @@ table {
 }
 
 .new-icon {
-    color: #e84331;
+    color: #d95282;
     font-size: 12px;
     padding: 2px;
     margin: 0 2px 0 0;
@@ -997,15 +997,15 @@ ul {
     line-height: 90% !important;
     color: #333;
     padding: 0px 0px 10px 5px;
-    border-bottom: 1px dotted #e84331;/* Branding  concept color 1  *******/
+    border-bottom: 1px dotted #d95282;/* Branding  concept color 1  *******/
     font-weight: 600;
 }
 .re1511-ttlSmall{
-    color:#e84331;/* Branding  concept color 1  *******/
+    color:#d95282;/* Branding  concept color 1  *******/
 }
 .ibskinArticle33 {
     padding: 5px 0;
-    border: 1px dotted #e84331;/* Branding  concept color 1  *******/
+    border: 1px dotted #d95282;/* Branding  concept color 1  *******/
     background: #ffffff;
     margin-bottom: 15px;
 }
@@ -1069,7 +1069,7 @@ td, th {
     padding: 20px 20px 5px 20px;
     list-style-type: none;
     background-color: rgba(249, 229, 228, 0.46);/* concept color 3****/
-    border: 1px solid #e84331;/* concept color****/
+    border: 1px solid #d95282;/* concept color****/
     font-size: 14px;
     width: 100%;
     border-radius: 8px;
@@ -1079,7 +1079,7 @@ td, th {
 .titleichiran5 {
     color: #00A1E7;
     font-size: 17px;
-    border-bottom: 1px solid #e84331;/* concept color****/
+    border-bottom: 1px solid #d95282;/* concept color****/
     padding: 0px 0 10px 5px;
     margin: 0px 0 10px 0;
 }
@@ -1093,11 +1093,11 @@ td, th {
 .bottom-shousai {
     margin: 6px 0px 0 0;
     padding: 6px 6px;
-    background-color: #e84331;/* concept color****/
+    background-color: #d95282;/* concept color****/
     font-weight: 600;
 }
 .tabeletitlebg {
-    background-color: #e84331;/* concept color 1****/
+    background-color: #d95282;/* concept color 1****/
     color: #fff;
     font-size: 18px;
 }
@@ -1125,7 +1125,7 @@ input[type="submit"] {
     -webkit-appearance: button;
     cursor: pointer;
     width: 50%;
-    background-color: #e84331;/* concept color****/
+    background-color: #d95282;/* concept color****/
     color: #fff;
     margin: 10px 0;
     padding: 5px 0;
@@ -1136,7 +1136,7 @@ input[type="text"], input[type="email"], input[type="url"], input[type="password
     padding: 10px;
     width: 100%!important;
 }
-.OM_table{width:100%;border-collapse:collapse;border:1px solid #e84331;background-color:#e84331;}/* concept color****/
+.OM_table{width:100%;border-collapse:collapse;border:1px solid #d95282;background-color:#d95282;}/* concept color****/
 .OM_table tr td{text-align:center;}
 .bizfom{margin: 10px 0 0 0;}
 .bizfom2{margin: 10px 0 13px 0;}
@@ -1154,7 +1154,7 @@ color: #e2c242;/* 星のマーク*******/
 margin: 0 0 3px 0;
 }
 .woocommerce-info {
-    border-top-color: #e84331;
+    border-top-color: #d95282;
 }
 
 .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt {
@@ -1166,7 +1166,7 @@ margin: 0 0 3px 0;
     padding: 0 10px;
 }
 .woocommerce ul.products li.product .price {
-    color: #e84331;
+    color: #d95282;
     display: block;
     font-weight: 400;
     margin-bottom: .5em;
@@ -1301,13 +1301,13 @@ background: #EF9086;/* Branding  concept color 2  *******/
  *****************************/
 
 #data th{
-background:#e84331;/* Branding  concept color 1  *******/
+background:#d95282;/* Branding  concept color 1  *******/
 color: #FFFFFF;
 font-size: 16px;
 }
 
 #data th,#data td{
-    border: 1px dotted #e84331;　/* 枠線　 *//* Branding  concept color 1  *******/
+    border: 1px dotted #d95282;　/* 枠線　 *//* Branding  concept color 1  *******/
     padding: 6px 18px 6px 15px!important;
     text-align: left;
     min-width: 100px;
@@ -1384,7 +1384,7 @@ li.children:before {
     background: url(※) no-repeat;
     background-position: 0 50%;
     border: none;
-    border-bottom: 1px solid #e84331;
+    border-bottom: 1px solid #d95282;
     overflow: hidden;
     zoom: 1;
     margin:30px 0 20px 0;
@@ -1392,7 +1392,7 @@ li.children:before {
 }
 .ibskinArticleHeader-case2 {
     padding: 0px 0px 10px 0;
-    border-bottom: 1px solid #e84331;
+    border-bottom: 1px solid #d95282;
     overflow: hidden;
     zoom: 1;
     margin: 0px 0 20px 0;
@@ -1401,7 +1401,7 @@ li.children:before {
 .ibMenuHeader-case {
     font-weight: bold;
     padding: 5px 10px 5px 7px;
-    border-bottom: 2px solid #e84331;
+    border-bottom: 2px solid #d95282;
     margin:30px 0 20px 0;
 }
 .tescol{

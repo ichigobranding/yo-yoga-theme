@@ -11,7 +11,7 @@
 	</div><!-- #content -->
 
 
-<?php get_template_part('mailmag'); ?>
+<!--<?//php get_template_part('mailmag'); ?>-->
 
 
 

@@ -20,11 +20,11 @@
 				<div class="row">
 						<!--<div class="col-md-6 col-md-push-3 centerc">-->
 						<div class="col-md-8 centerc">
-							<?php get_template_part( 'ap-bana' ); ?>
+							<!--<?//php get_template_part( 'ap-bana' ); ?>-->
 							<?php get_template_part( 'messageborad' ); ?>
 							<!--<?//php get_template_part( 'messageborad-w' ); ?>-->
-							<?php get_template_part( 'semi-indexparts-main' ); ?>
-							<?php get_template_part( 'consul-indexparts-main' ); ?>
+							<!--<?//php get_template_part( 'semi-indexparts-main' ); ?>-->
+							<!--<?//php get_template_part( 'consul-indexparts-main' ); ?>-->
 							<!--<?//php get_template_part( 'index-w' ); ?>-->
 							<!--<?//php get_template_part( 'blogul' ); ?>-->
 							<?php get_template_part( 'blogul-lis' ); ?>
