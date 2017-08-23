@@ -8,7 +8,7 @@
                           <div class="ibProfileImageArea">
                             <div class="ibuserProfileImage">
                                 <a href="<?php echo esc_url( home_url( '/' ) ); ?>profile">
-                                <?php echo get_avatar( $id_or_email, 82, $default, $alt, $args ); ?>
+                                <?php echo get_avatar( $id_or_email, 100, $default, $alt, $args ); ?>
                                 </a>
                             </div>
                           </div>

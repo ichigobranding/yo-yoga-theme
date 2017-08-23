@@ -18,7 +18,7 @@ get_header(); ?>
       		<main id="main" class="site-main" role="main">
 
 				<div class="row">
-						<div class="col-md-6 col-md-push-3">
+						<div class="col-md-8">
 						
 									<div class="kiji-page">
  							  <!--記事全体-->
@@ -63,12 +63,13 @@ get_header(); ?>
 								 <!--記事全体-->
 									</div>
 						</div>
-							<div class="col-md-3 col-md-pull-6">
-								<?php get_template_part( 'left-sidebar' ); ?>
-							</div>
-					<div class="col-md-3 sidebarpadd">
-						<?php get_sidebar(); ?>
-					</div>
+							<!--<div class="col-md-3 col-md-pull-6">
+                <?php //get_template_part( 'left-sidebar' ); ?>
+              </div>-->
+          <div class="col-md-4 sidebarpadd">
+            <!--<?//php get_sidebar(); ?>-->
+            <?php get_template_part( 'sidebar2' ); ?>
+          </div>
 				</div>
 
       		</main><!-- #main -->

@@ -145,6 +145,6 @@ function is_mobile(){
 }//ヘッダー画像　スマホを判別
 
 // 事例紹介アイキャッチ画像の表示の仕方を指定（リサイズ）
-set_post_thumbnail_size(400 ,251 ,true);
+set_post_thumbnail_size(900 ,500 ,true);
 
 endif; // end ! function_exists

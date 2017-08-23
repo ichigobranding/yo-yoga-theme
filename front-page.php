@@ -7,26 +7,25 @@
  get_header(); ?>
 
 	<div id="primary" class="content-area col-sm-12 col-md-12">
-		<main id="main" class="site-main image" role="main">
-	<?php get_template_part( 'smabana' ); ?>
+		<main id="main" class="site-main" role="main">
+	<!--<?//php get_template_part( 'smabana' ); ?>-->
 	<!-- topbana -->
-			<!-- <div class="tbanana imgbtn">
-				<a href="<?//php echo esc_url( home_url( '/' ) ); ?>/※">
-					<img src="<?//php echo get_stylesheet_directory_uri() ?>/images/top-bana.png" alt="※"/>
-					</a>
-			</div>-->
+			 <div class="tbanana imgbtn">
+				<a href="<?php echo esc_url( home_url( '/' ) ); ?>/lesson">
+					<img src="<?php echo get_stylesheet_directory_uri() ?>/images/top-bana.png" alt="※"/>
+				</a>
+			</div>
 	<!-- topbana -->
 	<!-- #IB-main## -->
 				<div class="row">
-						<!--<div class="col-md-6 col-md-push-3 centerc">-->
 						<div class="col-md-8 centerc">
+						<!--<div class="col-md-6 col-md-push-3 centerc">-->
 							<!--<?//php get_template_part( 'ap-bana' ); ?>-->
 							<?php get_template_part( 'messageborad' ); ?>
 							<!--<?//php get_template_part( 'messageborad-w' ); ?>-->
 							<!--<?//php get_template_part( 'semi-indexparts-main' ); ?>-->
 							<!--<?//php get_template_part( 'consul-indexparts-main' ); ?>-->
 							<!--<?//php get_template_part( 'index-w' ); ?>-->
-							<!--<?//php get_template_part( 'blogul' ); ?>-->
 							<?php get_template_part( 'blogul-lis' ); ?>
 						</div>
 							<!--<div class="col-md-3 col-md-pull-6">

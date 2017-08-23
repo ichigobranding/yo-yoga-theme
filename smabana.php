@@ -2,7 +2,7 @@
 <div class="tbanana imgbtn">
 	<?php if (wp_is_mobile()) :?>
 		<!-- topbana -->
-		<img src="<?php echo get_stylesheet_directory_uri() ?>/images/top-bana-mobile-small.png" alt="※"/>
+		<img src="<?php echo get_stylesheet_directory_uri() ?>/images/top-bana.png" alt="※"/>
 		<!--<?//php if ( function_exists( 'meteor_slideshow' ) ) { meteor_slideshow(); } ?>-->
 		<!-- topbana -->
 	<?php else: ?>
